@@ -16,8 +16,14 @@ Full-stack application development with modern technologies. Mobile, web, and cl
 
 ---
 
-+1 (320) 317-7912  
++1 (320) 317-7912
+
+Mail address:  
 2261 Market Street STE 86996  
 San Francisco, CA 94114  
+
+Company address:  
+131 Continental Drive, suite 305  
+Newark, DE 19713  
 
 ---
